@@ -21,3 +21,4 @@ This project sets up a Cloud Run service on GCP using Terraform.
     ```
 The output will include the URL of your Cloud Run service. 
     ``` sh cloud_run_url = "https://hello-world-rujwahc4iq-uc.a.run.app"
+    ```
